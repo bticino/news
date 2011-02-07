@@ -1,0 +1,16 @@
+7 feb 2011
+
+Any change in repositories will 
+be notified here.
+
+Bticino repositories list:
+
+bubl: re-implementation of ubl
+u-boot: porting to bticino boards
+linux: porting to bticino boards
+
+openembedded: features added
+bt-overlay: openembedded overlay
+
+
+
